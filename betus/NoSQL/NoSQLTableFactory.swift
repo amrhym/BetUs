@@ -19,7 +19,7 @@ class NoSQLTableFactory {
 
             PostsTable(),
 
-            UsersTable(),
+            PostsTable(),
         ]
     }
 }

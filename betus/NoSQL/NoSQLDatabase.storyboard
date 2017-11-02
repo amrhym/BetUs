@@ -12,7 +12,7 @@
         <!--Select Table-->
         <scene sceneID="CwI-T5-Awr">
             <objects>
-                <tableViewController title="Select Table" id="c7R-eA-poz" userLabel="Select Table" customClass="NoSQLTableListViewController" customModule="MySampleApp" sceneMemberID="viewController">
+                <tableViewController title="Select Table" id="c7R-eA-poz" userLabel="Select Table" customClass="NoSQLTableListViewController" customModule="betus" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="default" rowHeight="115" sectionHeaderHeight="18" sectionFooterHeight="18" id="2Zq-F0-f7H">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="603"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -159,7 +159,7 @@
         <!--Table-->
         <scene sceneID="r5l-Uu-ZvH">
             <objects>
-                <tableViewController title="Table" id="uAR-fE-k4M" customClass="NoSQLTableViewController" customModule="MySampleApp" sceneMemberID="viewController">
+                <tableViewController title="Table" id="uAR-fE-k4M" customClass="NoSQLTableViewController" customModule="betus" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="default" rowHeight="79" sectionHeaderHeight="18" sectionFooterHeight="18" id="NrZ-6K-d8k">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="559"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -264,7 +264,7 @@
         <!--Result-->
         <scene sceneID="BEl-WY-Ree">
             <objects>
-                <tableViewController title="Result" id="UTC-f4-tVG" customClass="NoSQLQueryResultViewController" customModule="MySampleApp" sceneMemberID="viewController">
+                <tableViewController title="Result" id="UTC-f4-tVG" customClass="NoSQLQueryResultViewController" customModule="betus" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="none" rowHeight="66" sectionHeaderHeight="18" sectionFooterHeight="18" id="YlD-hO-7Zh">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="559"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -406,7 +406,7 @@
         <!--Feature Explanation-->
         <scene sceneID="rtA-Bd-myA">
             <objects>
-                <viewController storyboardIdentifier="NoSQLDatabase" title="NoSQL Database Demo" id="Jrq-tO-0rH" userLabel="Feature Explanation" customClass="FeatureDescriptionViewController" customModule="MySampleApp" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="NoSQLDatabase" title="NoSQL Database Demo" id="Jrq-tO-0rH" userLabel="Feature Explanation" customClass="FeatureDescriptionViewController" customModule="betus" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="OOd-6j-ZA2"/>
                         <viewControllerLayoutGuide type="bottom" id="8S6-Sv-0aW"/>

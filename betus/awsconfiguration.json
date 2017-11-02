@@ -1,1 +1,51 @@
-{"UserAgent":"MobileHub/1.0","Version":"1.0","CredentialsProvider":{"CognitoIdentity":{"Default":{"PoolId":"us-east-1:0995d835-db13-43d5-bde1-c713e8485f7c","Region":"us-east-1"}}},"IdentityManager":{"Default":{}},"CognitoUserPool":{"Default":{"PoolId":"us-east-1_1MH3etS2Q","AppClientId":"4cqaint0aua999vq335aaqi6bt","AppClientSecret":"1c3ltlskk3ou24669vm5cdto65rocm80v7edjlhrpbuuurimbbc7","Region":"us-east-1"}},"S3TransferUtility":{"Default":{"Bucket":"betus-userfiles-mobilehub-1316247808","Region":"us-east-1"}},"Cognito":{"Default":{"Region":"us-east-1"}},"DynamoDBObjectMapper":{"Default":{"Region":"us-east-1"}},"PinpointAnalytics":{"Default":{"AppId":"2f6bf1f3e2be4d458c18600019cb780e","Region":"us-east-1"}},"PinpointTargeting":{"Default":{"Region":"us-east-1"}},"UserFileManager":{"Default":{"Bucket":"betus-userfiles-mobilehub-1316247808","Region":"us-east-1"}},"FacebookSignIn":{"AppId":"176795602821810"}}
+{
+    "UserAgent": "MobileHub/1.0",
+    "Version": "1.0",
+    "CredentialsProvider": {
+        "CognitoIdentity": {
+            "Default": {
+                "PoolId": "us-east-1:0995d835-db13-43d5-bde1-c713e8485f7c",
+                "Region": "us-east-1"
+            }
+        }
+    },
+    "IdentityManager": {
+        "Default": {}
+    },
+    "S3TransferUtility": {
+        "Default": {
+            "Bucket": "betus-userfiles-mobilehub-1316247808",
+            "Region": "us-east-1"
+        }
+    },
+    "Cognito": {
+        "Default": {
+            "Region": "us-east-1"
+        }
+    },
+    "DynamoDBObjectMapper": {
+        "Default": {
+            "Region": "us-east-1"
+        }
+    },
+    "PinpointAnalytics": {
+        "Default": {
+            "AppId": "2f6bf1f3e2be4d458c18600019cb780e",
+            "Region": "us-east-1"
+        }
+    },
+    "PinpointTargeting": {
+        "Default": {
+            "Region": "us-east-1"
+        }
+    },
+    "UserFileManager": {
+        "Default": {
+            "Bucket": "betus-userfiles-mobilehub-1316247808",
+            "Region": "us-east-1"
+        }
+    },
+    "FacebookSignIn": {
+        "AppId": "176795602821810"
+    }
+}

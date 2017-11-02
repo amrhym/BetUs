@@ -1,0 +1,85 @@
+PODS:
+  - AWSAuthCore (2.6.2):
+    - AWSCore (= 2.6.2)
+  - AWSAuthUI (2.6.2):
+    - AWSAuthCore (= 2.6.2)
+    - AWSCore (= 2.6.2)
+  - AWSCognito (2.6.2):
+    - AWSCore (= 2.6.2)
+  - AWSCognitoIdentityProvider (2.6.2):
+    - AWSCore (= 2.6.2)
+  - AWSCore (2.6.2)
+  - AWSDynamoDB (2.6.2):
+    - AWSCore (= 2.6.2)
+  - AWSFacebookSignIn (2.6.2):
+    - AWSAuthCore (= 2.6.2)
+    - FBSDKCoreKit (~> 4.0)
+    - FBSDKLoginKit (~> 4.0)
+  - AWSPinpoint (2.6.2):
+    - AWSCore (= 2.6.2)
+  - AWSS3 (2.6.2):
+    - AWSCore (= 2.6.2)
+  - AWSUserPoolsSignIn (2.6.2):
+    - AWSAuthCore (= 2.6.2)
+    - AWSCognitoIdentityProvider (= 2.6.2)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FacebookCore (0.2.0):
+    - Bolts (~> 1.8)
+    - FBSDKCoreKit (~> 4.15)
+  - FacebookLogin (0.2.0):
+    - Bolts (~> 1.8)
+    - FacebookCore (~> 0.2)
+    - FBSDKCoreKit (~> 4.15)
+    - FBSDKLoginKit (~> 4.15)
+  - FacebookShare (0.2.0):
+    - Bolts (~> 1.8)
+    - FacebookCore (~> 0.2)
+    - FBSDKCoreKit (~> 4.15)
+    - FBSDKShareKit (~> 4.15)
+  - FBSDKCoreKit (4.27.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.27.0):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.27.0):
+    - FBSDKCoreKit
+
+DEPENDENCIES:
+  - AWSAuthCore (~> 2.6.1)
+  - AWSAuthUI (~> 2.6.1)
+  - AWSCognito (~> 2.6.1)
+  - AWSDynamoDB (~> 2.6.1)
+  - AWSFacebookSignIn (~> 2.6.1)
+  - AWSPinpoint (~> 2.6.1)
+  - AWSS3 (~> 2.6.1)
+  - AWSUserPoolsSignIn (~> 2.6.1)
+  - FacebookCore
+  - FacebookLogin
+  - FacebookShare
+
+SPEC CHECKSUMS:
+  AWSAuthCore: 41155990fc5b10d84667c237a8757799edbf6267
+  AWSAuthUI: 771c3aa17b9a83c8c39c7813a09b9916d1456225
+  AWSCognito: e8db76ef485fbbc1c90617217451301b1477ce45
+  AWSCognitoIdentityProvider: 8d2e86a00ca828ceaf6513b96ee3a45b70518631
+  AWSCore: 8f458961a4967be219162108f5be7df1c935639a
+  AWSDynamoDB: 29e1d8775b13a18033b6064e1563e5769fdfe024
+  AWSFacebookSignIn: 6cde84c3970f8f8512fdfb84b991967b5ebfccaa
+  AWSPinpoint: ff93d73bcaef82570167e5ba01635d51dfe19ad9
+  AWSS3: b3e2c4aca868cae06b5b88337ceabee25709fcc5
+  AWSUserPoolsSignIn: 2d27dbcde0d1287a19784ea33a27b4df1eb7891c
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FacebookCore: 2cb3f0fbff218e9d3119cec84bae983b232412de
+  FacebookLogin: c9d606504735780a9e3002465a615512e0a691a5
+  FacebookShare: 8e9ee8ea06505e6a1d3d719b0cc63e840fb8aaeb
+  FBSDKCoreKit: ebc6c5f5b3f0e72396041050e2266781a38ac587
+  FBSDKLoginKit: 887be4b7452e1c5a3cc4485ce152529965a0c41e
+  FBSDKShareKit: 4f83956d4ca2960730fe7588a168eb8d535c06dc
+
+PODFILE CHECKSUM: edca44ba0f89cb92d376ecf12513422798883ed1
+
+COCOAPODS: 1.4.0.beta.1

@@ -130,7 +130,7 @@ class ViewController: UITableViewController {
               //  userItem._cover = response.dictionaryValue?["cover"]
                 let resd = response.dictionaryValue!
                 
-                print (resd["id"]10.)
+             //   print (resd["id"]10.)
 //        print(userItem._cover)
 //                print(userItem._cover!["id"])
         let identityManager = AWSIdentityManager.default()

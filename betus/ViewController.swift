@@ -22,7 +22,7 @@ class ViewController: UITableViewController {
     fileprivate let loginButton: UIBarButtonItem = UIBarButtonItem(title: nil, style: .done, target: nil, action: nil)
     
     // MARK: - View lifecycle
-    
+    //amr
     func onSignIn (_ success: Bool) {
         // handle successful sign in
         if (success) {

@@ -89,7 +89,7 @@ class ViewController: UITableViewController {
             icon: "savepostandshare", storyboard: "savepostandshare")
         
         demoFeatures.append(demoFeature)
-        saveFacebookData()
+      //  saveFacebookData()
     }
     
     
